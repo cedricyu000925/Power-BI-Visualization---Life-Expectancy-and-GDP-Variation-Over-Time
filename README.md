@@ -4,7 +4,7 @@
 In this project, I assumed the role of a data analyst tasked with visualizing life expectancy and GDP data over time to uncover trends and regional differences. Throughout the project, I loaded and cleaned data, created and configured visualizations in order to provide insight about a) Life expectancy by year across each countries, and b) GDP Per Capita by Year across regions. Two visualizations will be created into a dashboard to gain insight about the dataset.
 
 # Dataset
-The Gapminder dataset _SampleDataWS.csv_ combines data from multiple sources into coherent time-series information about life expectancy over time for countries and regions around the world.
+The Gapminder dataset __SampleDataWS.csv__ combines data from multiple sources into coherent time-series information about life expectancy over time for countries and regions around the world.
 
 #  Steps implemented for this project
 Here are the steps I accomplished to complete this project:
