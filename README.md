@@ -11,7 +11,7 @@ Here are the steps I accomplished to complete this project:
 
 1. Import the life expectancy and GDP data into Power BI, using the csv file provided in this repository.
 
-2. Clean and transform the data for analysis. This involves using the Power QUery Editor to replace errors with null values, inserting year in appropriate columns, and change the data format of the relevant columns.
+2. Clean and transform the data for analysis. This involves using the Power Query Editor to replace errors with null values, inserting year in appropriate columns, and change the data format of the relevant columns.
 
 3. Create interactive scatter plots and stacked column charts.
 
